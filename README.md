@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics education, astronomy education, and fiber arts.
 - 🌱 I’m currently learning too many things to keep track of.
 - 💞️ I’m looking to collaborate on testing simulations that can be used for NGSS-aligned experiments for ninth grade physics and high school aastronomy.
-- 📫 How to reach me: send email.
+<!--- - 📫 How to reach me: send email. --->
 
 <!---
 jsb16/jsb16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
